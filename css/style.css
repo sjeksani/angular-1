@@ -276,7 +276,7 @@ a.small {
   float: left;
   width: 60px;
   -webkit-border-radius: 12px;
-  border-radius: 12px;
+  border-radius: 10px;
   margin-right: 10px;
   margin-bottom: 10px;
 }
